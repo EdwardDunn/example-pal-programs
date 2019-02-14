@@ -9,8 +9,8 @@ CMP409 languages &amp; compilers course test programs
 - Add ```git add --all```
 - Commit ```git commit -m "[your_commit_message]"```
 - Push ```git push origin [your_branch_name]```
-- Create PR (on GitHub)
-- Merge (on GitHub)
+- Create PR (on GitHub got to branches and click "new pull request" next to your branch)
+- Merge (on GitHub, green button on your pull request page)
 
 ## Usage
 - Add sample program as txt file
