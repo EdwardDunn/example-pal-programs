@@ -1,0 +1,9 @@
+PROGRAM
+	AddIntegers
+WITH
+	a,b INTEGERS
+IN
+	INPUT a
+	INPUT b
+	OUTPUT a + b
+END;
