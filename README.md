@@ -3,7 +3,6 @@ CMP409 languages &amp; compilers course test programs
 
 ## Contributing
 - Clone repository ```git clone https://github.com/EdwardDunn/example-pal-programs.git```
-- Add remote ```git remote add origin https://github.com/EdwardDunn/example-pal-programs.git```
 - Create branch ```git checkout -b [your_branch_name]```
 - Add program(s)
 - Add ```git add --all```
