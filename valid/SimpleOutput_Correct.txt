@@ -1,0 +1,7 @@
+PROGRAM SimpleOutput
+WITH i AS INTEGER
+IN
+  i = 1
+  OUTPUT i
+ENDLOOP
+  
