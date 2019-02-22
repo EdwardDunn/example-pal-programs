@@ -1,5 +1,4 @@
-PROGRAM
-	NoImplementation
+PROGRAM NoImplementation
 WITH
 	
 IN
