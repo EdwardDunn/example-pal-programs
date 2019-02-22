@@ -2,7 +2,7 @@ PROGRAM MultiplyIntegers
 WITH
 	a,b AS
 IN
-	OUTPUT a
+	INPUT a
 	INPUT b
 	OUTPUT a * b
 END
