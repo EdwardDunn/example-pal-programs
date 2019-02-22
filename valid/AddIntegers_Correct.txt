@@ -6,4 +6,4 @@ IN
 	INPUT a
 	INPUT b
 	OUTPUT a + b
-END;
+END
