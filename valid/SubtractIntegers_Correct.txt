@@ -1,7 +1,6 @@
-PROGRAM 
-	SubtractIntegers
+PROGRAM SubtractIntegers
 WITH
-	a,b INTEGERS
+	a, b AS INTEGER
 IN
 	INPUT a
 	INPUT b
