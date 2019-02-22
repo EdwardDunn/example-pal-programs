@@ -1,9 +1,0 @@
-PROGRAM
-	MultiplyIntegers
-WITH
-	a,b INTEGERS
-IN
-	OUTPUT a
-	INPUT b
-	OUTPUT a * b
-END;
