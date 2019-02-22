@@ -1,0 +1,6 @@
+PROGRAM DisplayValue
+WITH
+	a INTEGER
+IN
+	OUTPUT a
+END

@@ -1,7 +1,0 @@
-PROGRAM
-	DisplayValue
-WITH
-	a INTEGERS
-IN
-	OUTPUT b
-END;
