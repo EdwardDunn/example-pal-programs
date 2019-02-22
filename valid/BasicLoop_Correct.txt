@@ -1,12 +1,10 @@
-PROGRAM HelloWorld
+PROGRAM BasicLoop
 WITH
-  a, b INTEGER
+  a AS INTEGER
 IN
+  INPUT a
   UNTIL a > 10 REPEAT
-    INPUT a
-    IF a < 10 THEN
-      a = a + 1
-    ENDIF
-    OUTPUT a
+    a = a + 1
   ENDLOOP
+  OUTPUT a
 END
