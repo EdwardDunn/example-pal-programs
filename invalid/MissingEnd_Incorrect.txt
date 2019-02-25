@@ -1,0 +1,5 @@
+PROGRAM DislayAge
+WITH age AS INTEGER
+IN
+  INPUT age
+  OUTPUT age
