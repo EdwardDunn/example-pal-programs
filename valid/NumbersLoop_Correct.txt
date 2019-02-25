@@ -1,0 +1,15 @@
+PROGRAM NumbersLoop
+WITH
+  a, b AS INTEGER
+IN
+  INPUT a
+  INPUT b
+  UNTIL a > 1000 REPEAT
+    a = a + 1
+  ENDLOOP
+  UNTIL b > 5000 REPEAT
+    b = b + 10
+  ENDLOOP
+  OUTPUT a
+  OUTPUT b
+END
