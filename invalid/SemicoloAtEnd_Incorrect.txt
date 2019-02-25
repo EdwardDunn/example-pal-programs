@@ -1,0 +1,6 @@
+PROGRAM BrokenProgram
+WITH a AS INTEGER
+IN
+  a = 1
+  OUTPUT a
+END;
