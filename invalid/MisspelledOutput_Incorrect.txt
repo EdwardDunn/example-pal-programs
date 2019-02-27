@@ -1,0 +1,9 @@
+PROGRAM DisplayNumbers
+WITH
+  a, b AS INTEGER
+IN
+  a = 5
+  b = 10
+  OUTPUTT a
+  OUTPUTT b
+END
