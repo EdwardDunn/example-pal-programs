@@ -1,0 +1,8 @@
+PROGRAM NumberLoop
+With
+  a AS INTEGER
+IN
+  UNTIL a > 10 REPEAT
+    a + 1
+  ENDLOOP
+END
