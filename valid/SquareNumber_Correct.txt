@@ -1,0 +1,9 @@
+PROGRAM DisplaySquareOfNumber
+WITH
+  number, square AS INTEGER
+IN
+  INPUT number
+  square = number * number
+  OUTPUT square
+END
+  
